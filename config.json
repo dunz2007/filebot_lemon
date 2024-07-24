@@ -1,0 +1,64 @@
+{
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "MAINTENANCE_MODE": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "❤"
+    },
+    "notiGroup": false,
+    "NOTIFICATION": true,
+    "allowInbox": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoClean": true,
+    "BOTNAME": "Tago 🍋",
+    "AMDIN_NAME": "𝑫𝒖̃𝒏𝒈 𝑵𝒈𝒖𝒚𝒆̂̃𝒏",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/1162050272",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "1162050272"
+    ],
+    "NDH": [
+        "1162050272"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "antists.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "version": "2.7.12",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "log": {
+        "enable": true
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 100000
+    },
+    "anti": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "adminOnly": false,
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    }
+}
